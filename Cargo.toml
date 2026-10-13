@@ -10,4 +10,4 @@ keywords = ["prost", "protobuf", "chrono", "timestamp", "range"]
 
 [dependencies]
 prost = "0.14"
-chrono = "0.4.45"
+chrono = "0.4"
