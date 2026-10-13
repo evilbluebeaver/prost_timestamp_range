@@ -5,7 +5,7 @@ description = "Prost types for timestamp ranges"
 edition = "2024"
 authors = ["Kirill Kindiuk <evilbluebeaver@gmail.com>"]
 license = "MIT"
-repository = "https://github.com/evilbluebeaver/prost-timestamp-range"
+repository = "https://github.com/evilbluebeaver/prost_timestamp_range"
 keywords = ["prost", "protobuf", "chrono", "timestamp", "range"]
 
 [dependencies]
