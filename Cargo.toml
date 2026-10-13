@@ -1,6 +1,6 @@
 [package]
 name = "prost-timestamp-range"
-version = "0.1.0"
+version = "0.1.1"
 description = "Prost types for timestamp ranges"
 edition = "2024"
 authors = ["Kirill Kindiuk <evilbluebeaver@gmail.com>"]
