@@ -1,0 +1,13 @@
+[package]
+name = "prost-timestamp-range"
+version = "0.1.0"
+description = "Prost types for timestamp ranges"
+edition = "2024"
+authors = ["Kirill Kindiuk <evilbluebeaver@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/evilbluebeaver/prost-timestamp-range"
+keywords = ["prost", "protobuf", "chrono", "timestamp", "range"]
+
+[dependencies]
+prost = "0.14"
+chrono = "0.4.45"
